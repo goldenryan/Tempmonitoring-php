@@ -1,2 +1,1 @@
-This is the temperature monitoring website that Christian Mesh and I had written to alert all Clarkson Open Source
-Institute Administrators what the temperature in our server room is.
+This is the temperature monitoring website written in php using an old monitoring device.  Christian Mesh and I had written this website to show the temperature in our server room over long periods of time and alert all Clarkson Open Source Institute Administrators when the temperature fot out of hand.
